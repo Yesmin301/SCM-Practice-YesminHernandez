@@ -5,9 +5,9 @@ Source Code Management (SCM) is the application of keeping track of and managing
 ## How does GitHub Help?
 GitHub has many tools, features, and environments that help SCM making it easier and more efficient to collaborate on software development. The features that GitHub provides are: 
 * Version Control:
-** Can keep track of changes and revert back to old versions.
+**Can keep track of changes and revert back to old versions.
 * Collaboration:
-** Allows multiple developers to work on the same coding project.
+**Allows multiple developers to work on the same coding project.
 * Branching and Merging:
 **Allows parallel development and the integration of coding changes.
 * Code Review:
