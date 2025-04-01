@@ -12,4 +12,9 @@ Can keep track of changes and revert back to old versions.
     *Allows parallel development and the integration of coding changes.
 * Code Review:
     *Makes it easier to give feedback and ensure quality control
+
+  * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
   
